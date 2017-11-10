@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-cine-jovenesaprogramar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinGian/ejercicio-cine-jovenesaprogramar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinGian/ejercicio-cine-jovenesaprogramar/issues"
+  },
+  "homepage": "https://github.com/MartinGian/ejercicio-cine-jovenesaprogramar#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
